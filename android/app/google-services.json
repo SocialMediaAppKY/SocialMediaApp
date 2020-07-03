@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542924087154",
+    "firebase_url": "https://my-project-kodluyoruz.firebaseio.com",
+    "project_id": "my-project-kodluyoruz",
+    "storage_bucket": "my-project-kodluyoruz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542924087154:android:217fc89ff4c189602607eb",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542924087154-3pjq9oirtbjftq31phaa2i8kppp10ouu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdi4G6OjNVxQWd4TfpW4HyltxDLIjhJMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542924087154-3pjq9oirtbjftq31phaa2i8kppp10ouu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
